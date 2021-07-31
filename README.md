@@ -1,4 +1,4 @@
-# Universal Transeiver Macrocell Interface 
+# USB Transeiver Macrocell Interface 
 
 This project is done as part of the System on Programmable Chip Lab course. It demostrates the working of a basic UTMI using Verilog. 
 
