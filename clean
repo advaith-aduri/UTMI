@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+find . -type f ! -wholename "./filenames.txt" ! -wholename "./run" ! -wholename "./clean" | grep -v "./test" | grep -v "./src" | xargs rm

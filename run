@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+iverilog -s UTMI_final_tb -o UTMI_final_tb -c filenames.txt
+vvp UTMI_final_tb.vcd
+gtkwave UTMI_final_tb.vcd

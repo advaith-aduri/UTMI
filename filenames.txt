@@ -1,0 +1,7 @@
+ ./src/hs_bs.v
+ ./src/NRZI_decoder.v
+ ./src/NRZI_encoder.v
+ ./src/RX_SM.v
+ ./src/sh_bus.v
+ ./src/TX_SM.v
+ ./src/UTMI_final_tb.v
